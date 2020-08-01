@@ -44,7 +44,8 @@ salesforce開発者初級　完全未経験に向け
  * Contact(取引先責任者):
    > ContactとAccountの関係｛N：1｝の例： ABCD会社（Business Account）とABCD会社のIT　大朗部長（Contact）,ABCD会社の営業　村田部長（Contact）......
  * Case(ケース)     
-   > 顧客の質問、フィードバックまたは問題だ   ![image]()
+   > 顧客の質問、フィードバックまたは問題だ.以下は  Account-Contact-Case(関係)
+   ![](https://github.com/dong1hang/salesforce/blob/master/Account-Contact-Case(relationship).png)
         
  　　
  
