@@ -25,7 +25,7 @@ salesforce開発者初級　完全未経験に向け
 
 
 
- セールスの重要オブジェクト紹介
+ ## セールスの重要オブジェクト紹介
 
  * Lead Capture (LEAD（リード、見込み客）): 
    > web(facebook,Twitterなど),inbound calls( tel,emailなど),Lists(Excelなど)からキャプチャする
