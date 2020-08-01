@@ -48,7 +48,7 @@ salesforce開発者初級　完全未経験に向け
 　
  * MVC model,view,controller 　
  * object,record(レコード),field(フィールド):
- >> object: Standard Object(標準オブジェクト)、Custom Object()
+ >> object: Standard Object(標準オブジェクト)、Custom Object(カスタム　オブジェクト)：API　NAMEは"_c"ネーミングする
     
         
  　　
