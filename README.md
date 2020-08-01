@@ -24,6 +24,30 @@ salesforce開発者初級　完全未経験に向け
     salesforce開発環境はIEブラウザで行う方法
     設定方法：「設定」→「セキュリティ」→「セッションの設定」→Lightning Experience での IE11 の使用の延長
         （延長期間中に Lightning Experience で IE11 を使用することに同意する）をチェック　→「保存」
+ 
+ 
+ 
+ セールスの重要オブジェクト
+ ----------------
+ * Lead Capture (LEAD（リード、見込み客）): 
+   > web(facebook,Twitterなど),inbound calls( tel,emailなど),Lists(Excelなど)からキャプチャする
+* Account(取引先):
+   > ２つ客の種類がある。Person Account(個人)　Business Account(会社)
+* Opportunitity(商談):
+   > セールスの機会。OpportunitityとAccountの関係｛N：1｝の例：ABCD会社（Business Account）とOpportunitity A,Opportunitity B,Opportunitity C.....
+   > フェーズ：
+   >>　Prospecting
+   >>　Developing
+   >>　Negotiation/Review
+   >>　Closed/Won
+   >>　Closed/Lost
+ * Contact(取引先責任者):
+   > ContactとAccountの関係｛N：1｝の例： ABCD会社（Business Account）とABCD会社のIT　大朗部長（Contact）,ABCD会社の営業　村田部長（Contact）......
+ * Case(ケース)     
+   > 顧客の質問、フィードバックまたは問題だ   
+        
+ 　　
+ 
 
             
 
